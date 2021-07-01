@@ -47,3 +47,13 @@
             background:rgb(170, 44, 44);
             color: white;
         }
+
+        /*image*/
+        .image {
+            text-align: center;
+        }
+
+        /*content*/
+        .content {
+            text-align: center;
+        }
