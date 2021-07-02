@@ -57,3 +57,7 @@
         .content {
             text-align: center;
         }
+
+        .line {
+            line-height: 1;
+        }
