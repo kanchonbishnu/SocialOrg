@@ -1,0 +1,154 @@
+        /* Style all font awesome icons */
+        .fa {
+            padding: 20px;
+            font-size: 30px;
+            width: 50px;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        /* Add a hover effect if you want */
+        .fa:hover {
+            opacity: 0.7;
+        }
+
+        /* Facebook */
+        .fa-facebook {
+            background: #3B5998;
+            color: white;
+        }
+
+        /* Twitter */
+        .fa-twitter {
+            background: #55ACEE;
+            color: white;
+        }
+
+        /* google */
+        .fa-google {
+            background: #dd4b39;
+            color: white;
+        }
+
+        /* linkedin */
+        .fa-linkedin {
+            background: #007bb5;
+            color: white;
+        }
+
+        /*youtube*/
+        .fa-youtube {
+            background: #bb0000;
+            color: white;
+        }
+
+        /*instagram */
+        .fa-instagram {
+            background:rgb(170, 44, 44);
+            color: white;
+        }
+
+        /*image*/
+        .image {
+            text-align: center;
+        }
+
+        /*content*/
+        .content {
+            text-align: center;
+        }
+
+        /*line*/
+        .line {
+            line-height: 1;
+        }
+
+        /*footer*/
+        .foot {
+            background-color: grey;
+            padding: 12px;
+            color: #ffffff;
+        }
+        
+        /*footer-map*/
+        .map-container{
+            overflow:hidden;
+            padding-bottom:56.25%;
+            position:relative;
+            height:0;
+        }
+
+        .map-container iframe{
+            left:0;
+            top:0;
+            height:100%;
+            width:100%;
+            position:absolute;
+        }
+
+        /*latest news*/
+        .date {
+            display: block; 
+            float: left; 
+            margin: 2px 2px 2px 2px; 
+            text-align: center; 
+            background-color: green; 
+            border-radius: 5px; 
+            padding: 3px 6 px; 
+            color: white;
+        }
+
+        /*shuvo vai*/
+        /***** Contact *****/
+
+/***** Contact form*****/
+        .form-wrap {
+            background-color: #18a577;
+            padding: 3rem;
+        }
+        .contact-wrap h3 {
+            color: #fff;
+        }
+        .form-group {
+            margin-bottom: 0.98rem;
+        }
+        .contactForm .label {
+            margin-bottom: 0.5rem;
+            color: #fff;
+            text-transform: uppercase;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .contactForm .form-control {
+            border: none;
+            font-size: 14px;
+        }
+        .contactForm .btn {
+            background: #ffffff;
+            border: 2px solid #ffffff;
+            color: gray;
+            border-radius: 15px;
+            padding: 5px 15px;
+            font-size: 14px;
+        }
+        .contactForm .btn:hover {
+            background-color: #18a577;
+            color: #000000;
+            transition: 1s;
+        }
+        
+        /***** Contact map*****/
+        .getin-touch {
+            text-align: center;
+            padding: 3rem;
+            font-size: 1.2rem;
+            color: #ffffff;
+            background-color: #18a577;
+        }
+        .getin-touch i {
+            margin-bottom: 1rem;
+        }
+        .getin-touch i::before {
+            color: #ffffff;
+            font-size: 2rem;
+        }

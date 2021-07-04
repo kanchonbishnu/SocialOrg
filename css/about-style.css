@@ -1,0 +1,71 @@
+        /***** about Wrap *****/
+
+        .about-box {
+            padding: 2rem;
+            background-color: #18a577;
+            color: #ffffff;
+        }
+        .about-box p {
+            margin-bottom: 2rem;
+        }
+        .about-box .btn {
+            background: #ffffff;
+            border: 2px solid #ffffff;
+            color: gray;
+            border-radius: 15px;
+            padding: 5px 15px;
+            font-size: 15px;
+        }
+        .about-box .btn:hover {
+            background-color: #18a577;
+            color: #000000;
+            transition: 1s;
+        }
+        
+        /***** Mission Wrap *****/
+        .mission-box {
+            padding: 3rem;
+            text-align: center;
+        }
+        
+        /***** Activity Wrap *****/
+        .activity-box img {
+            padding: 0;
+            border: none;
+            border-radius: 0;
+        }
+        .activity-box p {
+            margin-top: 1rem;
+            font-size: 15px;
+            color: #000000;
+        }
+        .activity-box a {
+            text-decoration: none;
+            color: #18a577;
+        }
+        .activity-box a:hover {
+            color: #000000;
+        }
+        /***** Volunteer Section*****/
+        .volunteer-wrap {
+            padding: 3rem 0;
+            background-color: #18a577;
+            color: #ffffff;
+        }
+        .volunteer-header h4 {
+            margin-top: 0.5rem;
+        }
+        .volunteer-btn {
+            margin-top: 0.2rem;
+        }
+        .volunteer-btn .btn {
+            background: #ffffff;
+            border: 2px solid #ffffff;
+            color: gray;
+            border-radius: 15px;
+        }
+        .volunteer-btn .btn:hover {
+            background-color: #18a577;
+            color: #000000;
+            transition: 1s;
+        }
